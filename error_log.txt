@@ -1,0 +1,60 @@
+Traceback (most recent call last):
+  File "E:\kod\Automate_the_boring_stuff\chap12a.py", line 40, in <module>
+    raise Exception('This is the error message!')
+Exception: This is the error message!
+Traceback (most recent call last):
+  File "E:\kod\Automate_the_boring_stuff\chap12a.py", line 40, in <module>
+    raise Exception('This is the error message!')
+Exception: This is the error message!
+Traceback (most recent call last):
+  File "E:\kod\Automate_the_boring_stuff\chap12a.py", line 40, in <module>
+    raise Exception('This is the error message!')
+Exception: This is the error message!
+Traceback (most recent call last):
+  File "E:\kod\Automate_the_boring_stuff\chap12a.py", line 40, in <module>
+    raise Exception('This is the error message!')
+Exception: This is the error message!
+Traceback (most recent call last):
+  File "E:\kod\Automate_the_boring_stuff\chap12a.py", line 40, in <module>
+    raise Exception('This is the error message for TRACEBACK EXAMPLE!')
+Exception: This is the error message for TRACEBACK EXAMPLE!
+Traceback (most recent call last):
+  File "E:\kod\Automate_the_boring_stuff\chap12a.py", line 40, in <module>
+    raise Exception('This is the error message for TRACEBACK EXAMPLE!')
+Exception: This is the error message for TRACEBACK EXAMPLE!
+Traceback (most recent call last):
+  File "E:\kod\Automate_the_boring_stuff\chap12a.py", line 40, in <module>
+    raise Exception('This is the error message for TRACEBACK EXAMPLE!')
+Exception: This is the error message for TRACEBACK EXAMPLE!
+Traceback (most recent call last):
+  File "E:\kod\Automate_the_boring_stuff\chap12a.py", line 40, in <module>
+    raise Exception('This is the error message for TRACEBACK EXAMPLE!')
+Exception: This is the error message for TRACEBACK EXAMPLE!
+Traceback (most recent call last):
+  File "E:\kod\Automate_the_boring_stuff\chap12a.py", line 40, in <module>
+    raise Exception('This is the error message for TRACEBACK EXAMPLE!')
+Exception: This is the error message for TRACEBACK EXAMPLE!
+Traceback (most recent call last):
+  File "E:\kod\Automate_the_boring_stuff\chap12a.py", line 40, in <module>
+    raise Exception('This is the error message for TRACEBACK EXAMPLE!')
+Exception: This is the error message for TRACEBACK EXAMPLE!
+Traceback (most recent call last):
+  File "E:\kod\Automate_the_boring_stuff\chap12a.py", line 39, in <module>
+    raise Exception('This is the error message for TRACEBACK EXAMPLE!')
+Exception: This is the error message for TRACEBACK EXAMPLE!
+Traceback (most recent call last):
+  File "E:\kod\Automate_the_boring_stuff\chap12a.py", line 39, in <module>
+    raise Exception('This is the error message for TRACEBACK EXAMPLE!')
+Exception: This is the error message for TRACEBACK EXAMPLE!
+Traceback (most recent call last):
+  File "E:\kod\Automate_the_boring_stuff\chap12a.py", line 39, in <module>
+    raise Exception('This is the error message for TRACEBACK EXAMPLE!')
+Exception: This is the error message for TRACEBACK EXAMPLE!
+Traceback (most recent call last):
+  File "E:\kod\Automate_the_boring_stuff\chap12a.py", line 40, in <module>
+    raise Exception('This is the error message for TRACEBACK EXAMPLE!')
+Exception: This is the error message for TRACEBACK EXAMPLE!
+Traceback (most recent call last):
+  File "E:\kod\Automate_the_boring_stuff\chap12a.py", line 40, in <module>
+    raise Exception('This is the error message for TRACEBACK EXAMPLE!')
+Exception: This is the error message for TRACEBACK EXAMPLE!
