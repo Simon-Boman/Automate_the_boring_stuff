@@ -5,7 +5,7 @@ import math
 
 print(random.randint(1,10))
 
-
+print(sys.path)
 #pip install pyperclip (3rd party library)
 import pyperclip
 

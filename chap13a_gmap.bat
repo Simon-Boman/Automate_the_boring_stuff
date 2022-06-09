@@ -1,0 +1,1 @@
+@py E:\kod\Automate_the_boring_stuff\chap13a_gmap.py %*
