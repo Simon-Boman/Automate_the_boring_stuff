@@ -1,0 +1,10 @@
+2022-05-17 19:01:29,141 - DEBUG - Start of program
+2022-05-17 19:01:29,141 - INFO - Start of factorial (5)
+2022-05-17 19:01:29,141 - WARNING - i is 0, total is 0
+2022-05-17 19:01:29,141 - WARNING - i is 1, total is 0
+2022-05-17 19:01:29,141 - WARNING - i is 2, total is 0
+2022-05-17 19:01:29,141 - WARNING - i is 3, total is 0
+2022-05-17 19:01:29,141 - WARNING - i is 4, total is 0
+2022-05-17 19:01:29,141 - WARNING - i is 5, total is 0
+2022-05-17 19:01:29,141 - INFO - Return value is 0
+2022-05-17 19:01:29,142 - DEBUG - End of program
